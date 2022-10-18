@@ -1,0 +1,15 @@
+body {
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background-color: papayawhip;
+    /* changing font or text color */
+    color: darkcyan;
+}
+
+p {
+    /* color: rgb(0, 0, 255); */
+    /* color: rgba(0, 0, 0, 0); */
+    /* -->This disappears the fonts */
+    color: rgba(0, 0, 200, 0.1);
+}
