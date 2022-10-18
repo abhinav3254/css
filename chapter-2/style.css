@@ -1,0 +1,49 @@
+* {
+    /* This select everything */
+    font-family: monospace;
+}
+
+body {
+    font-size: 22px;
+}
+
+h1 {
+    color: blue;
+}
+
+
+/* Group selector */
+h1,
+h4 {
+    color: brown;
+}
+
+h1 h4 {
+    /* Here h1 h4 means h4 inside of h1 style that one only */
+    color: black;
+}
+
+p {
+    color: purple;
+}
+
+p span {
+    text-transform: uppercase;
+    background-color: gold;
+}
+
+/* class */
+.grey {
+    color: grey;
+}
+
+/* since classes are more specific so they over rule the p or any tag */
+
+/* id */
+#second {
+    font-style: italic;
+}
+
+/* id can be unique */
+
+/* rarely id should used try to use classes */
