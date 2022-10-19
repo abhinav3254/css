@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     font-size: 2rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -7,19 +13,47 @@ body {
     background-color: aqua;
     width: 50%;
 } */
-
+/* 
 p {
     background-color: lightgray;
+} */
+
+/* .opposite { */
+/* display: inline-block; */
+/* basically inline-block means it will accquire inline properties and block properties also */
+/* background-color: #333; */
+/* color: whitesmoke; */
+/* margin-top: 100px; */
+/* we can't apply top and bottom margin in inline elements */
+/* height: 200px; */
+/* and height can't be applied */
+/* padding: 4rem; */
+/* } */
+
+
+ul {
+    /* display: none; */
+    /* Display none removes everything from the page */
+    list-style-type: none;
+    padding: 0.5rem;
+    text-align: right;
+    background-color: black;
+    margin: 0;
 }
 
-.opposite {
+li {
     display: inline-block;
-    /* basically inline-block means it will accquire inline properties and block properties also */
-    background-color: #333;
-    color: whitesmoke;
-    margin-top: 100px;
-    /* we can't apply top and bottom margin in inline elements */
-    height: 200px;
-    /* and height can't be applied */
-    padding: 4rem;
+    margin-inline: 0.5rem;
+}
+
+li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+li a:hover,
+li a:focus {
+    text-decoration: underline;
+    background-color: white;
+    color: black;
 }
