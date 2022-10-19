@@ -1,0 +1,25 @@
+body {
+    font-size: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* main {
+    background-color: aqua;
+    width: 50%;
+} */
+
+p {
+    background-color: lightgray;
+}
+
+.opposite {
+    display: inline-block;
+    /* basically inline-block means it will accquire inline properties and block properties also */
+    background-color: #333;
+    color: whitesmoke;
+    margin-top: 100px;
+    /* we can't apply top and bottom margin in inline elements */
+    height: 200px;
+    /* and height can't be applied */
+    padding: 4rem;
+}
