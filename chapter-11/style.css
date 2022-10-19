@@ -13,4 +13,29 @@ body {
 
 .left {
     float: left;
+    margin-right: 8rem;
+}
+
+.right {
+    float: right;
+    margin-left: 8rem;
+}
+
+/* 
+p {
+    margin-left: 20%;
+} */
+
+.clear {
+    clear: both;
+}
+
+/* By using margin-left we can seperate float and p from each other */
+
+section {
+    background-color: bisque;
+    border: 1px solid red;
+    padding: 1rem;
+    /* overflow: auto; */
+    display: flow-root;
 }
