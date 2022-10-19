@@ -26,4 +26,8 @@ p {
     text-align: justify;
     text-align: right;
     text-indent: 2em;
+    line-height: 1.5;
+    /* increases the readilbilty */
+    letter-spacing: 0.25em;
+    word-spacing: 2em;
 }
