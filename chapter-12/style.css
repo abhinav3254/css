@@ -1,0 +1,12 @@
+body {
+    font-size: 1.2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.columns {
+    /* column-count: 4;
+    column-width: 250px; */
+    /* Instead of writing two lines we can also do it in one line */
+    columns: 4 50px;
+    column-rule: 3px solid black;
+}
