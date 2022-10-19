@@ -1,0 +1,29 @@
+.abhinav {
+    margin: 2rem;
+    border: 2px dotted red;
+    width: 50%;
+}
+
+body {
+    padding: 10%;
+    font-size: 1.2rem;
+    color: purple;
+}
+
+/* input, */
+/* button { */
+/* font: inherit; */
+/* Here inherit will inherit the font size from the body because button and input tag are child or inside of body tag */
+/* } */
+
+p {
+    text-decoration: underline;
+    text-decoration: none;
+    /* This none text decoration helps us with the link text those are underlined */
+    text-decoration: line-through;
+    text-transform: capitalize;
+    text-transform: uppercase;
+    text-align: justify;
+    text-align: right;
+    text-indent: 2em;
+}
