@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    display: inline-block;
+    text-decoration: none;
+}
+
+.one {
+    text-align: right;
+}
+
+li {
+    display: inline-block;
+    color: gray;
+    padding: 1.2rem;
+    font-size: 2rem;
+}
+
+li:hover {
+    background-color: white;
+    color: black;
+    cursor: default;
+}
