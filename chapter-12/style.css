@@ -9,4 +9,30 @@ body {
     /* Instead of writing two lines we can also do it in one line */
     columns: 4 50px;
     column-rule: 3px solid black;
+    column-gap: 3rem;
+}
+
+.columns p {
+    margin-top: 0px;
+}
+
+.columns h2 {
+    margin-top: 0;
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    break-inside: avoid;
+
+}
+
+.columns .quote {
+    font-size: 3rem;
+    text-align: center;
+    color: #333;
+    column-span: all;
+    margin-top: 2rem;
+}
+
+.nowrap {
+    white-space: nowrap;
 }
