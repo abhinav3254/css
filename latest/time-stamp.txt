@@ -1,0 +1,66 @@
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Course Achievements & Results
+⌨️ (0:02:36) Introduction to Course
+⌨️ (0:11:19) Downloading Necessary Software
+⌨️ (0:12:30) Where to Find Project Files
+
+⌨️ (0:14:28) What is CSS?
+⌨️ (0:17:09) Creating & Linking a CSS Stylesheet
+⌨️ (0:20:39) How to Test a Stylesheet
+
+⌨️ (0:22:12) What is a Selector?
+⌨️ (0:25:54) Classes & ID's in HTML
+⌨️ (0:31:52) Specificity & When to use Selectors
+⌨️ (0:39:13) Pseudoselectors
+⌨️ (0:47:58) Advanced Selectors
+⌨️ (0:59:30) Attribute Selectors
+⌨️ (0:09:38) What are Properties?
+⌨️ (1:12:59) The CSS General Rule
+ 
+⌨️ (1:17:37) Types of Colors
+⌨️ (1:24:53) Coloring Text
+⌨️ (1:32:30) Background Colors
+⌨️ (1:36:56) Images/URL's in CSS
+⌨️ (1:42:30) Other Background Properties
+⌨️ (1:48:59) Opacity/Transparency
+⌨️ (1:52:17) Gradients
+ 
+⌨️ (2:04:12) Introduction to Types of Units
+⌨️ (2:15:57) Text Manipulation
+⌨️ (2:23:54) Font Size, Bolding & Style
+⌨️ (2:30:33) Font Families
+⌨️ (2:37:08) Including External Fonts w/ Google Fonts
+⌨️ (2:43:14) Using External Fonts
+ 
+⌨️ (2:49:07) The CSS Box Model
+⌨️ (2:53:18) Changing Content Size
+⌨️ (2:59:07) CSS Borders
+⌨️ (3:05:51) Margin & Padding
+⌨️ (3:15:17) Float & Display Types
+
+⌨️ (3:27:47) What is Flexbox?
+⌨️ (3:31:35) Creating a Flex Container
+⌨️ (3:34:09) Flex Direction & Wrap
+⌨️ (3:38:26) Content Alignment
+⌨️ (3:44:45) Flex Item Order
+⌨️ (3:49:32) Shrink, Grow, & Basis
+⌨️ (4:00:03) The 'flex' Property
+⌨️ (4:03:21) Item Alignment
+
+⌨️ (4:08:16) Grid vs Flexbox
+⌨️ (4:11:14) Creating a Grid
+⌨️ (4:13:30) Template Columns & Rows
+⌨️ (4:21:12) Justify & Align Grid
+⌨️ (4:28:10) Row & Column Gaps
+⌨️ (4:33:13) Column & Row Lines
+⌨️ (4:40:46) Grid Area
+ 
+⌨️ (4:44:38) The Transition Property
+⌨️ (4:58:05) Transformation Functions
+⌨️ (5:12:26) Creating Animations w/ Keyframes
+⌨️ (5:20:30) Adding an Animation
+⌨️ (5:23:23) Animation Properties
+ 
+⌨️ (5:34:49) Website Transformation Challenge
+⌨️ (5:38:22) Website Transformation - SOLUTION
+⌨️ (6:13:32) What to Learn Next
